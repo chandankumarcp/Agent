@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment / secrets — NEVER commit real keys
+.env
+*.env
+
+# Generated report files
+**/research_analysis_report.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
