@@ -20,7 +20,7 @@ Point the agent at any folder containing a research paper and its code — it wi
 2. **💻 Analyse the code** — architecture, algorithm implementation, code quality, potential bugs
 3. **🔗 Cross-analyse** — checks whether the code actually matches the paper's claims and gives a **Reproducibility Score**
 4. **💬 Interactive Q&A** — ask follow-up questions about the paper or code in a chat interface
-5. **📝 Save a report** — generates `research_analysis_report.md` inside your folder
+5. **📝 Save a report** — generates `research_analysis_report.md` inside your folder this is given 
 
 ---
 
